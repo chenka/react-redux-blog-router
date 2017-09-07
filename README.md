@@ -1,5 +1,7 @@
 # React Blog
-
+- Router
+- Form validation
+- Redux
 
 #### Installtion
 Checkout this repo, install dependencies, then start the gulp process with the following:
